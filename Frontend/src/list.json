@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Science Fiction",
+        "title": "Explore Futuristic Worlds",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/35",
+        "image": "https://img.freepik.com/free-photo/futuristic-view-high-tech-earth-planet_23-2151100426.jpg?t=st=1723584603~exp=1723588203~hmac=ef332262c8fca347b4b0574bf03b156b50486378571341b2da9a8da6d753de24&w=900"
+      },
+      {
+        "id": 2,
+        "name": "Fantasy",
+        "title": "Dive into Magical Realms",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/219",
+        "image": "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793717.jpg?t=st=1723584781~exp=1723588381~hmac=e1eefa6f14e17217150e6fd4c61f363d3f3fe966dab4b8444c1755a03835aadb&w=900"
+      },
+      {
+        "id": 3,
+        "name": "Mystery Novels",
+        "title": "Unravel Secrets and Solve Crimes",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/1342",
+        "image": "https://img.freepik.com/free-photo/man-reading-spell-book-dark_23-2148277425.jpg?t=st=1723592443~exp=1723596043~hmac=a93c1af0167de931dd93ad65c5f6cf7ce3d476127d0f7815fd89a9fd6986d78c&w=900"
+      },
+      {
+        "id": 4,
+        "name": "Romantic Novels",
+        "title": "Feel the Love and Emotions",
+         "price"  :100,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/236",
+        "image": "https://img.freepik.com/free-photo/medium-shot-man-woman-being-romantic_23-2151067173.jpg?t=st=1723643108~exp=1723646708~hmac=7af8bf24499c01dceb99baa4740b858fad35bb3cbbf81a7c7966b90bd4ef1441&w=360"
+      },
+      {
+        "id": 5,
+        "name": "Non-Fiction",
+        "title": "Discover Real-Life Stories",
+        "price": 220,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/1661",
+        "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082226.jpg?t=st=1723584935~exp=1723588535~hmac=190e8e77231d0feaaf55fc43d03a08fd62e635345abde5a3a94601fb418b2529&w=900"
+      },
+      {
+        "id": 6,
+        "name": "Historical Fiction",
+        "title": "Travel Back in Time",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/768",
+        "image": "https://img.freepik.com/free-photo/pirate-artifacts-arrangement-still-life_23-2150426423.jpg?t=st=1723585000~exp=1723588600~hmac=f37341d2a10c08ae21b2eed3275139614f2c429689f6c2e0aaf42cc8fd29b792&w=360"
+      },
+      {
+        "id": 7,
+        "name": "Thriller",
+        "title": "Experience Heart-Pounding Suspense",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/2852",
+        "image": "https://img.freepik.com/free-photo/man-reading-red-spell-book-dark-looking-camera_23-2148277427.jpg?t=st=1723585052~exp=1723588652~hmac=7a996fa428c82aebfee7c8b1fcb563b05f7c64c27c47f0d16f06862f9407c506&w=360"
+      },
+      {
+        "id": 8,
+        "name": "Biography",
+        "title": "Read About Inspiring Lives",
+        "price": 220,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/730",
+        "image": "https://img.freepik.com/free-photo/creative-composition-with-books-flower_23-2148851061.jpg?t=st=1723585145~exp=1723588745~hmac=3cbbccd9eb91be2db04499e38952014d1561e21369e742ae207db62f954cd684&w=900"
+      },
+      {
+        "id": 9,
+        "name": "Children's Books",
+        "title": "Fun and Educational Reads for Kids",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/2554",
+        "image": "https://img.freepik.com/free-vector/children-reading-books-together_1308-75731.jpg?t=st=1723585181~exp=1723588781~hmac=ede20d3db9fe1839a67dc5621eb818982de30b4f52506641b338c0a0592259e0&w=740"
+      },
+      {
+        "id": 10,
+        "name": "Poetries",
+        "title": "Connect Your Heart with Poets",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/2554",
+        "image": "https://img.freepik.com/free-photo/top-view-love-letters-arrangement_23-2150716538.jpg?t=st=1723585232~exp=1723588832~hmac=12c0e0e83fa292b30e9be1ad27d90c70bd988087c688817afa299e56009ab846&w=900"
+      },
+      {
+        "id": 11,
+        "name": "Self-Help",
+        "title": "Empower Yourself with Life Lessons",
+        "price": 150,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/1234",
+        "image": "https://img.freepik.com/free-photo/self-help-books-arrangement_23-2148829763.jpg?t=st=1723652491~exp=1723656091~hmac=c9f4b41a7a0c6b0f88a6f5dbe4c92720c5d04d4dfb2e7b36f19c39bcdc996fbf&w=900"
+      },
+      {
+        "id": 12,
+        "name": "Travel",
+        "title": "Explore the World from Your Armchair",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/5678",
+        "image": "https://img.freepik.com/free-photo/travel-books-arrangement-world-map_23-2149082128.jpg?t=st=1723652543~exp=1723656143~hmac=b65efbde3ef0ac4d6f11c23b3bfc9f9f629fded72e1e8ad0acfdffab857f38a6&w=900"
+      },
+      {
+        "id": 13,
+        "name": "Cooking",
+        "title": "Delight Your Taste Buds with Recipes",
+        "price": 200,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/3456",
+        "image": "https://img.freepik.com/free-photo/cookbook-open-kitchen-table_23-2148773197.jpg?t=st=1723652593~exp=1723656193~hmac=ca5b69a787897c41e99d7d865a79cbe6e7c6ef51e0a3cc334f7844b6f27069ef&w=900"
+      },
+      {
+        "id": 14,
+        "name": "Science",
+        "title": "Understand the Wonders of the Universe",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/6789",
+        "image": "https://img.freepik.com/free-photo/arrangement-with-studying-books_23-2147654597.jpg?w=900&t=st=1723643392~exp=1723643992~hmac=60b31472cc0130094a4600391533082718c3137db7d4a7aa26b66647535e5f63"
+      },
+      {
+        "id": 15,
+        "name": "Horror",
+        "title": "Dive into Nightmarish Worlds",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/7890",
+        "image": "https://img.freepik.com/free-photo/spooky-horror-books-arrangement_23-2149002126.jpg?t=st=1723652675~exp=1723656275~hmac=66c9a97a37a50ec2e7761b5a6795394d0ed73d86f8c6763f2e758a6d98f093f6&w=900"
+      },
+      {
+        "id": 16,
+        "name": "Philosophy",
+        "title": "Contemplate the Big Questions of Life",
+        "price": 180,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/9101",
+        "image": "https://img.freepik.com/free-photo/philosophy-books-arrangement-with-glasses_23-2148843652.jpg?t=st=1723652732~exp=1723656332~hmac=02b58e5a3a2e53a63af8aeff103627b04f0a04d9c2b6b0c20e6aeece654b3fc6&w=900"
+      },
+      {
+        "id": 17,
+        "name": "Adventure",
+        "title": "Embark on Thrilling Journeys",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/1122",
+        "image": "https://img.freepik.com/free-photo/adventure-books-arrangement-with-compass_23-2149082227.jpg?t=st=1723652793~exp=1723656393~hmac=f437d52f5dd21d0dbb170e00fcb222f6c5005b27c5189e5c2af7c13c7e5b72a2&w=900"
+      },
+      {
+        "id": 18,
+        "name": "Art & Design",
+        "title": "Immerse in Creativity and Aesthetics",
+        "price": 220,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/3345",
+        "image": "https://img.freepik.com/free-photo/art-books-arrangement-with-paint-brushes_23-2148843243.jpg?t=st=1723652841~exp=1723656441~hmac=9a4f60ae42f0a9413c29b5d0b972c931d5e10be2d1cf55609c81723b8124e445&w=900"
+      },
+      {
+        "id": 19,
+        "name": "Poetry",
+        "title": "Express Emotions Through Verse",
+        "price": 0,
+        "category": "Free",
+        "download": "https://www.gutenberg.org/ebooks/5544",
+        "image": "https://img.freepik.com/free-photo/poetry-books-arrangement-with-ink-pen_23-2148842917.jpg?t=st=1723652901~exp=1723656501~hmac=f3090fb875e1e482d6b4b8d6a1a8e7a515761b22ab74a422f1f5091f899c32c8&w=900"
+      },
+      {
+        "id": 20,
+        "name": "Graphic Novels",
+        "title": "Visual Storytelling at Its Best",
+        "price": 300,
+        "category": "Paid",
+        "download": "https://www.gutenberg.org/ebooks/7654",
+        "image": "https://img.freepik.com/free-photo/graphic-novel-books-arrangement-with-comic-strips_23-2149082518.jpg?t=st=1723652943~exp=1723656543~hmac=775c5e35b8f09a73c4c72fdb61c935bfc6ec850a2fc0167e5b9056ac5a64c58d&w=900"
+      }
+      
+]
