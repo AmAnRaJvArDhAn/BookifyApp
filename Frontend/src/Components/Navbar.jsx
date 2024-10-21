@@ -19,7 +19,7 @@ const Navbar = ({activeSection}) => {
   const navItems = (
     <>
       <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Home' ? 'underline text-rose-600' : ''}`}><a href='/'>Home</a></li>
-      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Course' ? 'underline text-rose-600' : ''}`}><a href='/Course'>Books</a></li>
+      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Course' ? 'underline text-rose-600' : ''}`}><a href='/Course'>Genres</a></li>
       <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Contact' ? 'underline text-rose-600' : ''}`}><a href='/Contact'>Contact</a></li>
       <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'About' ? 'underline text-rose-600' : ''}`}><a href='/About'>About</a></li>
     </>

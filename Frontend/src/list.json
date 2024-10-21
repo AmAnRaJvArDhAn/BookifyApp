@@ -6,7 +6,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/35",
-        "image": "https://img.freepik.com/free-photo/futuristic-view-high-tech-earth-planet_23-2151100426.jpg?t=st=1723584603~exp=1723588203~hmac=ef332262c8fca347b4b0574bf03b156b50486378571341b2da9a8da6d753de24&w=900"
+        "image": "https://img.freepik.com/free-photo/futuristic-view-high-tech-earth-planet_23-2151100426.jpg?t=st=1723584603~exp=1723588203~hmac=ef332262c8fca347b4b0574bf03b156b50486378571341b2da9a8da6d753de24&w=900",
+        "books": [
+            {
+              "title": "The War of the Worlds",
+              "author": "H.G. Wells",
+              "price": 0,
+              "download": "https://www.gutenberg.org/ebooks/36",
+              "image": "https://example.com/war_of_the_worlds.jpg"
+            },
+            {
+              "title": "Brave New World",
+              "author": "Aldous Huxley",
+              "price": 9.99,
+              "download": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523",
+              "image": "https://example.com/brave_new_world.jpg"
+            },
+            {
+              "title": "1984",
+              "author": "George Orwell",
+              "price": 0,
+              "download": "https://www.gutenberg.org/ebooks/1342",
+              "image": "https://example.com/1984.jpg"
+            },
+            {
+              "title": "Fahrenheit 451",
+              "author": "Ray Bradbury",
+              "price": 8.99,
+              "download": "https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310",
+              "image": "https://example.com/fahrenheit_451.jpg"
+            },
+            {
+              "title": "Do Androids Dream of Electric Sheep?",
+              "author": "Philip K. Dick",
+              "price": 0,
+              "download": "https://www.gutenberg.org/ebooks/112",
+              "image": "https://example.com/do_androids_dream.jpg"
+            }
+                ]
       },
       {
         "id": 2,
@@ -15,7 +52,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/219",
-        "image": "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793717.jpg?t=st=1723584781~exp=1723588381~hmac=e1eefa6f14e17217150e6fd4c61f363d3f3fe966dab4b8444c1755a03835aadb&w=900"
+        "image": "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793717.jpg?t=st=1723584781~exp=1723588381~hmac=e1eefa6f14e17217150e6fd4c61f363d3f3fe966dab4b8444c1755a03835aadb&w=900",
+        "books": [
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 9.99,
+        "download": "https://www.amazon.com/Hobbit-J-R-R-Tolkien/dp/054792822X",
+        "image": "https://example.com/hobbit.jpg"
+      },
+      {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "price": 0,
+        "download": "https://www.gutenberg.org/ebooks/1234",
+        "image": "https://example.com/narnia.jpg"
+      },
+      {
+        "title": "A Song of Ice and Fire",
+        "author": "George R.R. Martin",
+        "price": 12.99,
+        "download": "https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714",
+        "image": "https://example.com/game_of_thrones.jpg"
+      },
+      {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "price": 10.99,
+        "download": "https://www.amazon.com/Name-Wind-Kingkiller-Chronicle/dp/0756404746",
+        "image": "https://example.com/name_of_wind.jpg"
+      },
+      {
+        "title": "The Golden Compass",
+        "author": "Philip Pullman",
+        "price": 8.99,
+        "download": "https://www.amazon.com/Golden-Compass-His-Dark-Materials/dp/0440418609",
+        "image": "https://example.com/golden_compass.jpg"
+      }
+           ]
       },
       {
         "id": 3,
@@ -24,7 +98,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/1342",
-        "image": "https://img.freepik.com/free-photo/man-reading-spell-book-dark_23-2148277425.jpg?t=st=1723592443~exp=1723596043~hmac=a93c1af0167de931dd93ad65c5f6cf7ce3d476127d0f7815fd89a9fd6986d78c&w=900"
+        "image": "https://img.freepik.com/free-photo/man-reading-spell-book-dark_23-2148277425.jpg?t=st=1723592443~exp=1723596043~hmac=a93c1af0167de931dd93ad65c5f6cf7ce3d476127d0f7815fd89a9fd6986d78c&w=900",
+        "books": [
+      {
+        "title": "Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "price": 0,
+        "download": "https://www.gutenberg.org/ebooks/1661",
+        "image": "https://example.com/sherlock_holmes.jpg"
+      },
+      {
+        "title": "The Maltese Falcon",
+        "author": "Dashiell Hammett",
+        "price": 7.99,
+        "download": "https://www.amazon.com/Maltese-Falcon-Dashiell-Hammett/dp/0679722645",
+        "image": "https://example.com/maltese_falcon.jpg"
+      },
+      {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "price": 10.99,
+        "download": "https://www.amazon.com/Gone-Girl-Gillian-Flynn/dp/0307588378",
+        "image": "https://example.com/gone_girl.jpg"
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "price": 8.99,
+        "download": "https://www.amazon.com/Girl-Dragon-Tattoo-Millennium-Book/dp/0307454541",
+        "image": "https://example.com/dragon_tattoo.jpg"
+      },
+      {
+        "title": "In the Woods",
+        "author": "Tana French",
+        "price": 9.99,
+        "download": "https://www.amazon.com/Woods-Dublin-Murder-Squad-Book/dp/0143113496",
+        "image": "https://example.com/in_the_woods.jpg"
+      }
+    ]
       },
       {
         "id": 4,
@@ -33,7 +144,44 @@
          "price"  :100,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/236",
-        "image": "https://img.freepik.com/free-photo/medium-shot-man-woman-being-romantic_23-2151067173.jpg?t=st=1723643108~exp=1723646708~hmac=7af8bf24499c01dceb99baa4740b858fad35bb3cbbf81a7c7966b90bd4ef1441&w=360"
+        "image": "https://img.freepik.com/free-photo/medium-shot-man-woman-being-romantic_23-2151067173.jpg?t=st=1723643108~exp=1723646708~hmac=7af8bf24499c01dceb99baa4740b858fad35bb3cbbf81a7c7966b90bd4ef1441&w=360",
+        "books": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 0,
+        "download": "https://www.gutenberg.org/ebooks/1342",
+        "image": "https://example.com/pride_and_prejudice.jpg"
+      },
+      {
+        "title": "Me Before You",
+        "author": "Jojo Moyes",
+        "price": 8.99,
+        "download": "https://www.amazon.com/Me-Before-You-Jojo-Moyes/dp/0143124544",
+        "image": "https://example.com/me_before_you.jpg"
+      },
+      {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "price": 9.99,
+        "download": "https://www.amazon.com/Notebook-Nicholas-Sparks/dp/1455582875",
+        "image": "https://example.com/notebook.jpg"
+      },
+      {
+        "title": "Outlander",
+        "author": "Diana Gabaldon",
+        "price": 10.99,
+        "download": "https://www.amazon.com/Outlander-Diana-Gabaldon/dp/0440212561",
+        "image": "https://example.com/outlander.jpg"
+      },
+      {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "price": 7.99,
+        "download": "https://www.amazon.com/Twilight-Saga-Book-1/dp/0316015849",
+        "image": "https://example.com/twilight.jpg"
+      }
+         ]
       },
       {
         "id": 5,
@@ -42,7 +190,44 @@
         "price": 220,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/1661",
-        "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082226.jpg?t=st=1723584935~exp=1723588535~hmac=190e8e77231d0feaaf55fc43d03a08fd62e635345abde5a3a94601fb418b2529&w=900"
+        "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082226.jpg?t=st=1723584935~exp=1723588535~hmac=190e8e77231d0feaaf55fc43d03a08fd62e635345abde5a3a94601fb418b2529&w=900",
+        "books": [
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/345",
+      "image": "https://example.com/dracula.jpg"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Shining-Stephen-King/dp/0307743659",
+      "image": "https://example.com/the_shining.jpg"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/84",
+      "image": "https://example.com/frankenstein.jpg"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "author": "Shirley Jackson",
+      "price": 7.99,
+      "download": "https://www.amazon.com/Haunting-Hill-House-Penguin-Classics/dp/0143039989",
+      "image": "https://example.com/haunting_of_hill_house.jpg"
+    },
+    {
+      "title": "Bird Box",
+      "author": "Josh Malerman",
+      "price": 8.99,
+      "download": "https://www.amazon.com/Bird-Box-Novel-Josh-Malerman/dp/0062259660",
+      "image": "https://example.com/bird_box.jpg"
+    }
+  ]
       },
       {
         "id": 6,
@@ -51,7 +236,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/768",
-        "image": "https://img.freepik.com/free-photo/pirate-artifacts-arrangement-still-life_23-2150426423.jpg?t=st=1723585000~exp=1723588600~hmac=f37341d2a10c08ae21b2eed3275139614f2c429689f6c2e0aaf42cc8fd29b792&w=360"
+        "image": "https://img.freepik.com/free-photo/pirate-artifacts-arrangement-still-life_23-2150426423.jpg?t=st=1723585000~exp=1723588600~hmac=f37341d2a10c08ae21b2eed3275139614f2c429689f6c2e0aaf42cc8fd29b792&w=360",
+        "books": [
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Book-Thief-Markus-Zusak/dp/0375842209",
+      "image": "https://example.com/the_book_thief.jpg"
+    },
+    {
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "price": 10.99,
+      "download": "https://www.amazon.com/All-Light-We-Cannot-See/dp/1501173219",
+      "image": "https://example.com/all_the_light.jpg"
+    },
+    {
+      "title": "The Nightingale",
+      "author": "Kristin Hannah",
+      "price": 11.99,
+      "download": "https://www.amazon.com/Nightingale-Novel-Kristin-Hannah/dp/1250072258",
+      "image": "https://example.com/the_nightingale.jpg"
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/2600",
+      "image": "https://example.com/war_and_peace.jpg"
+    },
+    {
+      "title": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Pillars-Earth-Ken-Follett/dp/0451488332",
+      "image": "https://example.com/pillars_of_earth.jpg"
+    }
+             ]
       },
       {
         "id": 7,
@@ -60,7 +282,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/2852",
-        "image": "https://img.freepik.com/free-photo/man-reading-red-spell-book-dark-looking-camera_23-2148277427.jpg?t=st=1723585052~exp=1723588652~hmac=7a996fa428c82aebfee7c8b1fcb563b05f7c64c27c47f0d16f06862f9407c506&w=360"
+        "image": "https://img.freepik.com/free-photo/man-reading-red-spell-book-dark-looking-camera_23-2148277427.jpg?t=st=1723585052~exp=1723588652~hmac=7a996fa428c82aebfee7c8b1fcb563b05f7c64c27c47f0d16f06862f9407c506&w=360",
+        "books": [
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "price": 10.99,
+      "download": "https://www.amazon.com/Girl-Train-Novel-Paula-Hawkins/dp/1594634025",
+      "image": "https://example.com/girl_on_the_train.jpg"
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 11.99,
+      "download": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696",
+      "image": "https://example.com/silent_patient.jpg"
+    },
+    {
+      "title": "Gone Tomorrow",
+      "author": "Lee Child",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Gone-Tomorrow-Jack-Reacher-Book/dp/0440243688",
+      "image": "https://example.com/gone_tomorrow.jpg"
+    },
+    {
+      "title": "Before I Go to Sleep",
+      "author": "S.J. Watson",
+      "price": 8.99,
+      "download": "https://www.amazon.com/Before-Go-Sleep-Novel/dp/0062060554",
+      "image": "https://example.com/before_i_go_to_sleep.jpg"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Vinci-Code-Robert-Langdon/dp/0307474275",
+      "image": "https://example.com/da_vinci_code.jpg"
+    }
+        ]
       },
       {
         "id": 8,
@@ -69,7 +328,44 @@
         "price": 220,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/730",
-        "image": "https://img.freepik.com/free-photo/creative-composition-with-books-flower_23-2148851061.jpg?t=st=1723585145~exp=1723588745~hmac=3cbbccd9eb91be2db04499e38952014d1561e21369e742ae207db62f954cd684&w=900"
+        "image": "https://img.freepik.com/free-photo/creative-composition-with-books-flower_23-2148851061.jpg?t=st=1723585145~exp=1723588745~hmac=3cbbccd9eb91be2db04499e38952014d1561e21369e742ae207db62f954cd684&w=900",
+        "books": [
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "price": 14.99,
+      "download": "https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537",
+      "image": "https://example.com/steve_jobs.jpg"
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "price": 16.99,
+      "download": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136",
+      "image": "https://example.com/becoming.jpg"
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Diary-Young-Girl-Anne-Frank/dp/0553296981",
+      "image": "https://example.com/anne_frank.jpg"
+    },
+    {
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Long-Walk-Freedom-Autobiography-Mandela/dp/0316548189",
+      "image": "https://example.com/long_walk_to_freedom.jpg"
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "price": 13.99,
+      "download": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501",
+      "image": "https://example.com/educated.jpg"
+    }
+         ]
       },
       {
         "id": 9,
@@ -78,7 +374,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/2554",
-        "image": "https://img.freepik.com/free-vector/children-reading-books-together_1308-75731.jpg?t=st=1723585181~exp=1723588781~hmac=ede20d3db9fe1839a67dc5621eb818982de30b4f52506641b338c0a0592259e0&w=740"
+        "image": "https://img.freepik.com/free-vector/children-reading-books-together_1308-75731.jpg?t=st=1723585181~exp=1723588781~hmac=ede20d3db9fe1839a67dc5621eb818982de30b4f52506641b338c0a0592259e0&w=740",
+        "books": [
+    {
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/14838",
+      "image": "https://example.com/peter_rabbit.jpg"
+    },
+    {
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "price": 6.99,
+      "download": "https://www.amazon.com/Charlottes-Web-E-B-White/dp/0061124958",
+      "image": "https://example.com/charlottes_web.jpg"
+    },
+    {
+      "title": "Winnie the Pooh",
+      "author": "A.A. Milne",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/67098",
+      "image": "https://example.com/winnie_the_pooh.jpg"
+    },
+    {
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "price": 7.99,
+      "download": "https://www.amazon.com/Matilda-Roald-Dahl/dp/0142410373",
+      "image": "https://example.com/matilda.jpg"
+    },
+    {
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "price": 8.99,
+      "download": "https://www.amazon.com/Where-Wild-Things-Maurice-Sendak/dp/0064431789",
+      "image": "https://example.com/where_the_wild_things_are.jpg"
+    }
+  ]
       },
       {
         "id": 10,
@@ -87,7 +420,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/2554",
-        "image": "https://img.freepik.com/free-photo/top-view-love-letters-arrangement_23-2150716538.jpg?t=st=1723585232~exp=1723588832~hmac=12c0e0e83fa292b30e9be1ad27d90c70bd988087c688817afa299e56009ab846&w=900"
+        "image": "https://img.freepik.com/free-photo/top-view-love-letters-arrangement_23-2150716538.jpg?t=st=1723585232~exp=1723588832~hmac=12c0e0e83fa292b30e9be1ad27d90c70bd988087c688817afa299e56009ab846&w=900",
+        "books": [
+    {
+      "title": "The Raven and Other Poems",
+      "author": "Edgar Allan Poe",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/1065",
+      "image": "https://example.com/the_raven.jpg"
+    },
+    {
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/1322",
+      "image": "https://example.com/leaves_of_grass.jpg"
+    },
+    {
+      "title": "The Waste Land",
+      "author": "T.S. Eliot",
+      "price": 6.99,
+      "download": "https://www.amazon.com/Waste-Land-Other-Poems/dp/0156948770",
+      "image": "https://example.com/the_waste_land.jpg"
+    },
+    {
+      "title": "The Complete Poems of Emily Dickinson",
+      "author": "Emily Dickinson",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Complete-Poems-Emily-Dickinson/dp/0316184140",
+      "image": "https://example.com/emily_dickinson.jpg"
+    },
+    {
+      "title": "Ariel",
+      "author": "Sylvia Plath",
+      "price": 7.99,
+      "download": "https://www.amazon.com/Ariel-Sylvia-Plath/dp/0060732601",
+      "image": "https://example.com/ariel.jpg"
+    }
+  ]
       },
       {
         "id": 11,
@@ -96,7 +466,44 @@
         "price": 150,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/1234",
-        "image": "https://img.freepik.com/free-photo/self-help-books-arrangement_23-2148829763.jpg?t=st=1723652491~exp=1723656091~hmac=c9f4b41a7a0c6b0f88a6f5dbe4c92720c5d04d4dfb2e7b36f19c39bcdc996fbf&w=900"
+        "image": "https://img.freepik.com/free-photo/self-help-books-arrangement_23-2148829763.jpg?t=st=1723652491~exp=1723656091~hmac=c9f4b41a7a0c6b0f88a6f5dbe4c92720c5d04d4dfb2e7b36f19c39bcdc996fbf&w=900",
+        "books": [
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "price": 11.99,
+      "download": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X",
+      "image": "https://example.com/power_of_habit.jpg"
+    },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/64530",
+      "image": "https://example.com/how_to_win_friends.jpg"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Atomic-Habits-James-Clear/dp/0735211299",
+      "image": "https://example.com/atomic_habits.jpg"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713",
+      "image": "https://example.com/subtle_art.jpg"
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/12345",
+      "image": "https://example.com/think_and_grow_rich.jpg"
+    }
+  ]
       },
       {
         "id": 12,
@@ -105,7 +512,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/5678",
-        "image": "https://img.freepik.com/free-photo/travel-books-arrangement-world-map_23-2149082128.jpg?t=st=1723652543~exp=1723656143~hmac=b65efbde3ef0ac4d6f11c23b3bfc9f9f629fded72e1e8ad0acfdffab857f38a6&w=900"
+        "image": "https://img.freepik.com/free-photo/travel-books-arrangement-world-map_23-2149082128.jpg?t=st=1723652543~exp=1723656143~hmac=b65efbde3ef0ac4d6f11c23b3bfc9f9f629fded72e1e8ad0acfdffab857f38a6&w=900",
+        "books": [
+    {
+      "title": "The Innocents Abroad",
+      "author": "Mark Twain",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/3176",
+      "image": "https://example.com/innocents_abroad.jpg"
+    },
+    {
+      "title": "Eat, Pray, Love",
+      "author": "Elizabeth Gilbert",
+      "price": 8.99,
+      "download": "https://www.amazon.com/Eat-Pray-Love-Elizabeth-Gilbert/dp/0143038419",
+      "image": "https://example.com/eat_pray_love.jpg"
+    },
+    {
+      "title": "A Walk in the Woods",
+      "author": "Bill Bryson",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Walk-Woods-Rediscovering-Appalachian-Official/dp/0767902521",
+      "image": "https://example.com/a_walk_in_the_woods.jpg"
+    },
+    {
+      "title": "In Patagonia",
+      "author": "Bruce Chatwin",
+      "price": 7.99,
+      "download": "https://www.amazon.com/In-Patagonia-Bruce-Chatwin/dp/0142437190",
+      "image": "https://example.com/in_patagonia.jpg"
+    },
+    {
+      "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+      "author": "Rolf Potts",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-World/dp/0812992180",
+      "image": "https://example.com/vagabonding.jpg"
+    }
+  ]
       },
       {
         "id": 13,
@@ -114,7 +558,44 @@
         "price": 200,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/3456",
-        "image": "https://img.freepik.com/free-photo/cookbook-open-kitchen-table_23-2148773197.jpg?t=st=1723652593~exp=1723656193~hmac=ca5b69a787897c41e99d7d865a79cbe6e7c6ef51e0a3cc334f7844b6f27069ef&w=900"
+        "image": "https://img.freepik.com/free-photo/cookbook-open-kitchen-table_23-2148773197.jpg?t=st=1723652593~exp=1723656193~hmac=ca5b69a787897c41e99d7d865a79cbe6e7c6ef51e0a3cc334f7844b6f27069ef&w=900",
+        "books": [
+    {
+      "title": "The Joy of Cooking",
+      "author": "Irma S. Rombauer",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Joy-Cooking-Irma-S-Rombauer/dp/0743246268",
+      "image": "https://example.com/joy_of_cooking.jpg"
+    },
+    {
+      "title": "Mastering the Art of French Cooking",
+      "author": "Julia Child",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405",
+      "image": "https://example.com/mastering_french_cooking.jpg"
+    },
+    {
+      "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+      "author": "Samin Nosrat",
+      "price": 14.99,
+      "download": "https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830",
+      "image": "https://example.com/salt_fat_acid_heat.jpg"
+    },
+    {
+      "title": "How to Cook Everything",
+      "author": "Mark Bittman",
+      "price": 11.99,
+      "download": "https://www.amazon.com/How-Cook-Everything-2000-Simple/dp/0471789186",
+      "image": "https://example.com/how_to_cook_everything.jpg"
+    },
+    {
+      "title": "The Flavor Bible",
+      "author": "Karen Page and Andrew Dornenburg",
+      "price": 15.99,
+      "download": "https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400",
+      "image": "https://example.com/flavor_bible.jpg"
+    }
+  ]
       },
       {
         "id": 14,
@@ -123,7 +604,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/6789",
-        "image": "https://img.freepik.com/free-photo/arrangement-with-studying-books_23-2147654597.jpg?w=900&t=st=1723643392~exp=1723643992~hmac=60b31472cc0130094a4600391533082718c3137db7d4a7aa26b66647535e5f63"
+        "image": "https://img.freepik.com/free-photo/arrangement-with-studying-books_23-2147654597.jpg?w=900&t=st=1723643392~exp=1723643992~hmac=60b31472cc0130094a4600391533082718c3137db7d4a7aa26b66647535e5f63",
+        "books": [
+          {
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "price": 10.99,
+            "download": "https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168",
+            "image": "https://example.com/brief_history_of_time.jpg"
+          },
+          {
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "price": 8.99,
+            "download": "https://www.amazon.com/Selfish-Gene-Anniversary-Introduction/dp/0198788606",
+            "image": "https://example.com/selfish_gene.jpg"
+          },
+          {
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "price": 12.99,
+            "download": "https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354",
+            "image": "https://example.com/cosmos.jpg"
+          },
+          {
+            "title": "The Origin of Species",
+            "author": "Charles Darwin",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/1228",
+            "image": "https://example.com/origin_of_species.jpg"
+          },
+          {
+            "title": "The Elegant Universe",
+            "author": "Brian Greene",
+            "price": 11.99,
+            "download": "https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/039333810X",
+            "image": "https://example.com/elegant_universe.jpg"
+          }
+        ]
       },
       {
         "id": 15,
@@ -132,7 +650,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/7890",
-        "image": "https://img.freepik.com/free-photo/spooky-horror-books-arrangement_23-2149002126.jpg?t=st=1723652675~exp=1723656275~hmac=66c9a97a37a50ec2e7761b5a6795394d0ed73d86f8c6763f2e758a6d98f093f6&w=900"
+        "image": "https://img.freepik.com/free-photo/spooky-horror-books-arrangement_23-2149002126.jpg?t=st=1723652675~exp=1723656275~hmac=66c9a97a37a50ec2e7761b5a6795394d0ed73d86f8c6763f2e758a6d98f093f6&w=900",
+        "books": [
+          {
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/345",
+            "image": "https://example.com/dracula.jpg"
+          },
+          {
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/84",
+            "image": "https://example.com/frankenstein.jpg"
+          },
+          {
+            "title": "The Shining",
+            "author": "Stephen King",
+            "price": 9.99,
+            "download": "https://www.amazon.com/Shining-Stephen-King/dp/0307743659",
+            "image": "https://example.com/the_shining.jpg"
+          },
+          {
+            "title": "The Haunting of Hill House",
+            "author": "Shirley Jackson",
+            "price": 8.99,
+            "download": "https://www.amazon.com/Haunting-Hill-House-Shirley-Jackson/dp/0143039983",
+            "image": "https://example.com/haunting_of_hill_house.jpg"
+          },
+          {
+            "title": "Bird Box",
+            "author": "Josh Malerman",
+            "price": 10.99,
+            "download": "https://www.amazon.com/Bird-Box-Josh-Malerman/dp/0062259655",
+            "image": "https://example.com/bird_box.jpg"
+          }
+        ]
       },
       {
         "id": 16,
@@ -141,7 +696,44 @@
         "price": 180,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/9101",
-        "image": "https://img.freepik.com/free-photo/philosophy-books-arrangement-with-glasses_23-2148843652.jpg?t=st=1723652732~exp=1723656332~hmac=02b58e5a3a2e53a63af8aeff103627b04f0a04d9c2b6b0c20e6aeece654b3fc6&w=900"
+        "image": "https://img.freepik.com/free-photo/philosophy-books-arrangement-with-glasses_23-2148843652.jpg?t=st=1723652732~exp=1723656332~hmac=02b58e5a3a2e53a63af8aeff103627b04f0a04d9c2b6b0c20e6aeece654b3fc6&w=900",
+        "books": [
+          {
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "price": 7.99,
+            "download": "https://www.amazon.com/Meditations-Marcus-Aurelius/dp/048629823X",
+            "image": "https://example.com/meditations.jpg"
+          },
+          {
+            "title": "The Republic",
+            "author": "Plato",
+            "price": 5.99,
+            "download": "https://www.amazon.com/Republic-Plato/dp/0486415862",
+            "image": "https://example.com/republic.jpg"
+          },
+          {
+            "title": "Nicomachean Ethics",
+            "author": "Aristotle",
+            "price": 6.99,
+            "download": "https://www.amazon.com/Nicomachean-Ethics-Aristotle/dp/0486289459",
+            "image": "https://example.com/nicomachean_ethics.jpg"
+          },
+          {
+            "title": "Being and Time",
+            "author": "Martin Heidegger",
+            "price": 14.99,
+            "download": "https://www.amazon.com/Being-Time-Martin-Heidegger/dp/0061575590",
+            "image": "https://example.com/being_and_time.jpg"
+          },
+          {
+            "title": "The Critique of Pure Reason",
+            "author": "Immanuel Kant",
+            "price": 12.99,
+            "download": "https://www.amazon.com/Critique-Pure-Reason-Immanuel-Kant/dp/0486284737",
+            "image": "https://example.com/critique_of_pure_reason.jpg"
+          }
+        ]
       },
       {
         "id": 17,
@@ -150,7 +742,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/1122",
-        "image": "https://img.freepik.com/free-photo/adventure-books-arrangement-with-compass_23-2149082227.jpg?t=st=1723652793~exp=1723656393~hmac=f437d52f5dd21d0dbb170e00fcb222f6c5005b27c5189e5c2af7c13c7e5b72a2&w=900"
+        "image": "https://img.freepik.com/free-photo/adventure-books-arrangement-with-compass_23-2149082227.jpg?t=st=1723652793~exp=1723656393~hmac=f437d52f5dd21d0dbb170e00fcb222f6c5005b27c5189e5c2af7c13c7e5b72a2&w=900",
+        "books": [
+          {
+            "title": "Treasure Island",
+            "author": "Robert Louis Stevenson",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/120",
+            "image": "https://example.com/treasure_island.jpg"
+          },
+          {
+            "title": "The Three Musketeers",
+            "author": "Alexandre Dumas",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/1257",
+            "image": "https://example.com/three_musketeers.jpg"
+          },
+          {
+            "title": "Robinson Crusoe",
+            "author": "Daniel Defoe",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/521",
+            "image": "https://example.com/robinson_crusoe.jpg"
+          },
+          {
+            "title": "King Solomon's Mines",
+            "author": "H. Rider Haggard",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/2190",
+            "image": "https://example.com/king_solomons_mines.jpg"
+          },
+          {
+            "title": "The Count of Monte Cristo",
+            "author": "Alexandre Dumas",
+            "price": 0,
+            "download": "https://www.gutenberg.org/ebooks/1184",
+            "image": "https://example.com/count_of_monte_cristo.jpg"
+          }
+        ]
       },
       {
         "id": 18,
@@ -159,7 +788,44 @@
         "price": 220,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/3345",
-        "image": "https://img.freepik.com/free-photo/art-books-arrangement-with-paint-brushes_23-2148843243.jpg?t=st=1723652841~exp=1723656441~hmac=9a4f60ae42f0a9413c29b5d0b972c931d5e10be2d1cf55609c81723b8124e445&w=900"
+        "image": "https://img.freepik.com/free-photo/art-books-arrangement-with-paint-brushes_23-2148843243.jpg?t=st=1723652841~exp=1723656441~hmac=9a4f60ae42f0a9413c29b5d0b972c931d5e10be2d1cf55609c81723b8124e445&w=900",
+        "books": [
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "price": 8.99,
+      "download": "https://www.amazon.com/Art-War-Sun-Tzu/dp/1590302257",
+      "image": "https://example.com/art_of_war.jpg"
+    },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E.B. White",
+      "price": 7.99,
+      "download": "https://www.amazon.com/Elements-Style-William-Strunk-Jr/dp/020530902X",
+      "image": "https://example.com/elements_of_style.jpg"
+    },
+    {
+      "title": "Ways of Seeing",
+      "author": "John Berger",
+      "price": 12.99,
+      "download": "https://www.amazon.com/Ways-Seeing-John-Berger/dp/0140135154",
+      "image": "https://example.com/ways_of_seeing.jpg"
+    },
+    {
+      "title": "Designing Design",
+      "author": "Kenya Hara",
+      "price": 14.99,
+      "download": "https://www.amazon.com/Designing-Design-Kenya-Hara/dp/0061714801",
+      "image": "https://example.com/designing_design.jpg"
+    },
+    {
+      "title": "The Art Spirit",
+      "author": "Robert Henri",
+      "price": 9.99,
+      "download": "https://www.amazon.com/Art-Spirit-Robert-Henri/dp/0486405002",
+      "image": "https://example.com/art_spirit.jpg"
+    }
+  ]
       },
       {
         "id": 19,
@@ -168,7 +834,44 @@
         "price": 0,
         "category": "Free",
         "download": "https://www.gutenberg.org/ebooks/5544",
-        "image": "https://img.freepik.com/free-photo/poetry-books-arrangement-with-ink-pen_23-2148842917.jpg?t=st=1723652901~exp=1723656501~hmac=f3090fb875e1e482d6b4b8d6a1a8e7a515761b22ab74a422f1f5091f899c32c8&w=900"
+        "image": "https://img.freepik.com/free-photo/poetry-books-arrangement-with-ink-pen_23-2148842917.jpg?t=st=1723652901~exp=1723656501~hmac=f3090fb875e1e482d6b4b8d6a1a8e7a515761b22ab74a422f1f5091f899c32c8&w=900",
+        "books": [
+    {
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/1322",
+      "image": "https://example.com/leaves_of_grass.jpg"
+    },
+    {
+      "title": "The Raven",
+      "author": "Edgar Allan Poe",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/2091",
+      "image": "https://example.com/the_raven.jpg"
+    },
+    {
+      "title": "The Waste Land",
+      "author": "T.S. Eliot",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/5000",
+      "image": "https://example.com/the_waste_land.jpg"
+    },
+    {
+      "title": "Sonnet 18",
+      "author": "William Shakespeare",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/1004",
+      "image": "https://example.com/sonnet_18.jpg"
+    },
+    {
+      "title": "The Road Not Taken",
+      "author": "Robert Frost",
+      "price": 0,
+      "download": "https://www.gutenberg.org/ebooks/9000",
+      "image": "https://example.com/the_road_not_taken.jpg"
+    }
+  ]
       },
       {
         "id": 20,
@@ -177,7 +880,44 @@
         "price": 300,
         "category": "Paid",
         "download": "https://www.gutenberg.org/ebooks/7654",
-        "image": "https://img.freepik.com/free-photo/graphic-novel-books-arrangement-with-comic-strips_23-2149082518.jpg?t=st=1723652943~exp=1723656543~hmac=775c5e35b8f09a73c4c72fdb61c935bfc6ec850a2fc0167e5b9056ac5a64c58d&w=900"
+        "image": "https://img.freepik.com/free-photo/graphic-novel-books-arrangement-with-comic-strips_23-2149082518.jpg?t=st=1723652943~exp=1723656543~hmac=775c5e35b8f09a73c4c72fdb61c935bfc6ec850a2fc0167e5b9056ac5a64c58d&w=900",
+        "books": [
+          {
+            "title": "Watchmen",
+            "author": "Alan Moore",
+            "price": 14.99,
+            "download": "https://www.amazon.com/Watchmen-30th-Anniversary-Edition/dp/0930289234",
+            "image": "https://example.com/watchmen.jpg"
+          },
+          {
+            "title": "Maus",
+            "author": "Art Spiegelman",
+            "price": 12.99,
+            "download": "https://www.amazon.com/Maus-Two-Part-Graphic-Novel/dp/0394747232",
+            "image": "https://example.com/maus.jpg"
+          },
+          {
+            "title": "Persepolis",
+            "author": "Marjane Satrapi",
+            "price": 11.99,
+            "download": "https://www.amazon.com/Persepolis-Story-Childhood-Graphic-Novel/dp/037571457X",
+            "image": "https://example.com/persepolis.jpg"
+          },
+          {
+            "title": "Sandman: Preludes & Nocturnes",
+            "author": "Neil Gaiman",
+            "price": 13.99,
+            "download": "https://www.amazon.com/Sandman-Preludes-Nocturnes-Neil-Gaiman/dp/1401225757",
+            "image": "https://example.com/sandman_preludes.jpg"
+          },
+          {
+            "title": "Bone",
+            "author": "Jeff Smith",
+            "price": 15.99,
+            "download": "https://www.amazon.com/Bone-Complete-Edition-Jeff-Smith/dp/188896314X",
+            "image": "https://example.com/bone.jpg"
+          }
+        ]
       }
       
 ]
