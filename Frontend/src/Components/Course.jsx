@@ -7,7 +7,7 @@ function Course() {
       <div className='max-w-screen-2xl container mx-auto md:px-20 px-3 '>
         <div className='mt-14 items-center justify-center text-center '>
           <h1 className='text-4xl font-sans font-semibold text-gray-900 md:text-4xl '>
-            Your Next Read is <span className='text-rose-700'>Here! :)</span>
+            Your Next Read is <span className='text-rose-700'>Here! :</span>
           </h1>
         </div>
         <div className='mt-4 items-center justify-center text-center'>
