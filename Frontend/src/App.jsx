@@ -5,6 +5,7 @@ import Courses from './Courses/Courses'
 import Contacts from './Contacts/Contacts'
 import Abouts from './Abouts/Abouts'
 import SignUp from './Components/SignUp'
+import Genrelist1 from './Genrelist/Genrelist1'
 
 const App = () => {
   return (
@@ -17,6 +18,8 @@ const App = () => {
             <Route path='/Contact' element={<Contacts />} />
             <Route path='/About' element={<Abouts />} />
             <Route path='/Sign Up' element={<SignUp />} />
+            <Route path="/Course/:Genreid" element={<Genrelist1 />} />
+
           </Routes>
 
       </div>

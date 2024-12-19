@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react'
 import Login from '../Components/Login'
+import { Link } from 'react-router-dom'
 
 const Navbar = ({activeSection}) => {
 
@@ -18,10 +19,10 @@ const Navbar = ({activeSection}) => {
 
   const navItems = (
     <>
-      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Home' ? 'underline text-rose-600' : ''}`}><a href='/'>Home</a></li>
-      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Course' ? 'underline text-rose-600' : ''}`}><a href='/Course'>Genres</a></li>
-      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Contact' ? 'underline text-rose-600' : ''}`}><a href='/Contact'>Contact</a></li>
-      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'About' ? 'underline text-rose-600' : ''}`}><a href='/About'>About</a></li>
+      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Home' ? 'underline text-rose-600' : ''}`}><Link to='/'>Home</Link></li>
+      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Course' ? 'underline text-rose-600' : ''}`}><Link to='/Course'>Genres</Link></li>
+      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'Contact' ? 'underline text-rose-600' : ''}`}><Link to='/Contact'>Contact</Link></li>
+      <li className={`hover:text-rose-600 active:text-rose-700 ${activeSection === 'About' ? 'underline text-rose-600' : ''}`}><Link to='/About'>About</Link></li>
     </>
   );
   return (

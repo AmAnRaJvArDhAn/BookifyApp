@@ -9,6 +9,7 @@
         "image": "https://img.freepik.com/free-photo/futuristic-view-high-tech-earth-planet_23-2151100426.jpg?t=st=1723584603~exp=1723588203~hmac=ef332262c8fca347b4b0574bf03b156b50486378571341b2da9a8da6d753de24&w=900",
         "books": [
             {
+                "id": 1,
                 "title": "The War of the Worlds",
                 "author": "H.G. Wells",
                 "price": 0,
@@ -16,6 +17,7 @@
                 "image": "https://covers.openlibrary.org/b/id/7234816-L.jpg"
             },
             {
+                "id": 2,
                 "title": "Brave New World",
                 "author": "Aldous Huxley",
                 "price": 9.99,
@@ -23,6 +25,7 @@
                 "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
             },
             {
+                "id": 3,
                 "title": "1984",
                 "author": "George Orwell",
                 "price": 0,
@@ -30,6 +33,7 @@
                 "image": "https://covers.openlibrary.org/b/id/8225269-L.jpg"
             },
             {
+                "id": 4,
                 "title": "Fahrenheit 451",
                 "author": "Ray Bradbury",
                 "price": 8.99,
@@ -37,6 +41,7 @@
                 "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
             },
             {
+                "id": 5,
                 "title": "Do Androids Dream of Electric Sheep?",
                 "author": "Philip K. Dick",
                 "price": 0,
@@ -59,35 +64,40 @@
                 "author": "J.R.R. Tolkien",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Lion, the Witch and the Wardrobe",
                 "author": "C.S. Lewis",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1234",
-                "image": "https://example.com/narnia.jpg"
+                "image": "https://example.com/narnia.jpg",
+                "id": 2
             },
             {
                 "title": "A Song of Ice and Fire",
                 "author": "George R.R. Martin",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Name of the Wind",
                 "author": "Patrick Rothfuss",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "The Golden Compass",
                 "author": "Philip Pullman",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -105,35 +115,40 @@
                 "author": "Arthur Conan Doyle",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1661",
-                "image": "https://example.com/sherlock_holmes.jpg"
+                "image": "https://example.com/sherlock_holmes.jpg",
+                "id": 1
             },
             {
                 "title": "The Maltese Falcon",
                 "author": "Dashiell Hammett",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Gone Girl",
                 "author": "Gillian Flynn",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Girl with the Dragon Tattoo",
                 "author": "Stieg Larsson",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "In the Woods",
                 "author": "Tana French",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -151,35 +166,40 @@
                 "author": "Jane Austen",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1342",
-                "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg",
+                "id": 1
             },
             {
                 "title": "Me Before You",
                 "author": "Jojo Moyes",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "The Notebook",
                 "author": "Nicholas Sparks",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "Outlander",
                 "author": "Diana Gabaldon",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Twilight",
                 "author": "Stephenie Meyer",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -197,35 +217,40 @@
                 "author": "Bram Stoker",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/345",
-                "image": "https://covers.openlibrary.org/b/id/8235630-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8235630-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Shining",
                 "author": "Stephen King",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Frankenstein",
                 "author": "Mary Shelley",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/84",
-                "image": "https://covers.openlibrary.org/b/id/8235441-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8235441-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Haunting of Hill House",
                 "author": "Shirley Jackson",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Bird Box",
                 "author": "Josh Malerman",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -243,35 +268,40 @@
                 "author": "Markus Zusak",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "All the Light We Cannot See",
                 "author": "Anthony Doerr",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "The Nightingale",
                 "author": "Kristin Hannah",
                 "price": 11.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "War and Peace",
                 "author": "Leo Tolstoy",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/2600",
-                "image": "https://example.com/war_and_peace.jpg"
+                "image": "https://example.com/war_and_peace.jpg",
+                "id": 4
             },
             {
                 "title": "The Pillars of the Earth",
                 "author": "Ken Follett",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -289,35 +319,40 @@
                 "author": "Paula Hawkins",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Silent Patient",
                 "author": "Alex Michaelides",
                 "price": 11.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Gone Tomorrow",
                 "author": "Lee Child",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "Before I Go to Sleep",
                 "author": "S.J. Watson",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "The Da Vinci Code",
                 "author": "Dan Brown",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -335,35 +370,40 @@
                 "author": "Walter Isaacson",
                 "price": 14.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "Becoming",
                 "author": "Michelle Obama",
                 "price": 16.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "The Diary of a Young Girl",
                 "author": "Anne Frank",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "Long Walk to Freedom",
                 "author": "Nelson Mandela",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Educated",
                 "author": "Tara Westover",
                 "price": 13.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -381,35 +421,40 @@
                 "author": "Beatrix Potter",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/14838",
-                "image": "https://covers.openlibrary.org/b/id/8281997-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8281997-L.jpg",
+                "id": 1
             },
             {
                 "title": "Charlotte's Web",
                 "author": "E.B. White",
                 "price": 6.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Winnie the Pooh",
                 "author": "A.A. Milne",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/67098",
-                "image": "https://example.com/winnie_the_pooh.jpg"
+                "image": "https://example.com/winnie_the_pooh.jpg",
+                "id": 3
             },
             {
                 "title": "Matilda",
                 "author": "Roald Dahl",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Where the Wild Things Are",
                 "author": "Maurice Sendak",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -427,35 +472,40 @@
                 "author": "Edgar Allan Poe",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1065",
-                "image": "https://covers.openlibrary.org/b/id/8225321-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8225321-L.jpg",
+                "id": 1
             },
             {
                 "title": "Leaves of Grass",
                 "author": "Walt Whitman",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1322",
-                "image": "https://covers.openlibrary.org/b/id/8234214-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8234214-L.jpg",
+                "id": 2
             },
             {
                 "title": "The Waste Land",
                 "author": "T.S. Eliot",
                 "price": 6.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Complete Poems of Emily Dickinson",
                 "author": "Emily Dickinson",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Ariel",
                 "author": "Sylvia Plath",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -473,35 +523,40 @@
                 "author": "Charles Duhigg",
                 "price": 11.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "How to Win Friends and Influence People",
                 "author": "Dale Carnegie",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/64530",
-                "image": "https://example.com/how_to_win_friends.jpg"
+                "image": "https://example.com/how_to_win_friends.jpg",
+                "id": 2
             },
             {
                 "title": "Atomic Habits",
                 "author": "James Clear",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Subtle Art of Not Giving a F*ck",
                 "author": "Mark Manson",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Think and Grow Rich",
                 "author": "Napoleon Hill",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/12345",
-                "image": "https://example.com/think_and_grow_rich.jpg"
+                "image": "https://example.com/think_and_grow_rich.jpg",
+                "id": 5
             }
         ]
     },
@@ -519,35 +574,40 @@
                 "author": "Mark Twain",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/3176",
-                "image": "https://example.com/innocents_abroad.jpg"
+                "image": "https://example.com/innocents_abroad.jpg",
+                "id": 1
             },
             {
                 "title": "Eat, Pray, Love",
                 "author": "Elizabeth Gilbert",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "A Walk in the Woods",
                 "author": "Bill Bryson",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "In Patagonia",
                 "author": "Bruce Chatwin",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
                 "author": "Rolf Potts",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -565,35 +625,40 @@
                 "author": "Irma S. Rombauer",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "Mastering the Art of French Cooking",
                 "author": "Julia Child",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
                 "author": "Samin Nosrat",
                 "price": 14.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "How to Cook Everything",
                 "author": "Mark Bittman",
                 "price": 11.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "The Flavor Bible",
                 "author": "Karen Page and Andrew Dornenburg",
                 "price": 15.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -611,35 +676,40 @@
                 "author": "Stephen Hawking",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Selfish Gene",
                 "author": "Richard Dawkins",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Cosmos",
                 "author": "Carl Sagan",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Origin of Species",
                 "author": "Charles Darwin",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1228",
-                "image": "https://example.com/origin_of_species.jpg"
+                "image": "https://example.com/origin_of_species.jpg",
+                "id": 4
             },
             {
                 "title": "The Elegant Universe",
                 "author": "Brian Greene",
                 "price": 11.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -657,35 +727,40 @@
                 "author": "Bram Stoker",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/345",
-                "image": "https://covers.openlibrary.org/b/id/8235630-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8235630-L.jpg",
+                "id": 1
             },
             {
                 "title": "Frankenstein",
                 "author": "Mary Shelley",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/84",
-                "image": "https://covers.openlibrary.org/b/id/8235441-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8235441-L.jpg",
+                "id": 2
             },
             {
                 "title": "The Shining",
                 "author": "Stephen King",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "The Haunting of Hill House",
                 "author": "Shirley Jackson",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Bird Box",
                 "author": "Josh Malerman",
                 "price": 10.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -703,35 +778,40 @@
                 "author": "Marcus Aurelius",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Republic",
                 "author": "Plato",
                 "price": 5.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Nicomachean Ethics",
                 "author": "Aristotle",
                 "price": 6.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "Being and Time",
                 "author": "Martin Heidegger",
                 "price": 14.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "The Critique of Pure Reason",
                 "author": "Immanuel Kant",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -749,35 +829,40 @@
                 "author": "Robert Louis Stevenson",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/120",
-                "image": "https://example.com/treasure_island.jpg"
+                "image": "https://example.com/treasure_island.jpg",
+                "id": 1
             },
             {
                 "title": "The Three Musketeers",
                 "author": "Alexandre Dumas",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1257",
-                "image": "https://example.com/three_musketeers.jpg"
+                "image": "https://example.com/three_musketeers.jpg",
+                "id": 2
             },
             {
                 "title": "Robinson Crusoe",
                 "author": "Daniel Defoe",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/521",
-                "image": "https://example.com/robinson_crusoe.jpg"
+                "image": "https://example.com/robinson_crusoe.jpg",
+                "id": 3
             },
             {
                 "title": "King Solomon's Mines",
                 "author": "H. Rider Haggard",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/2190",
-                "image": "https://example.com/king_solomons_mines.jpg"
+                "image": "https://example.com/king_solomons_mines.jpg",
+                "id": 4
             },
             {
                 "title": "The Count of Monte Cristo",
                 "author": "Alexandre Dumas",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1184",
-                "image": "https://example.com/count_of_monte_cristo.jpg"
+                "image": "https://example.com/count_of_monte_cristo.jpg",
+                "id": 5
             }
         ]
     },
@@ -795,35 +880,40 @@
                 "author": "Sun Tzu",
                 "price": 8.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Elements of Style",
                 "author": "William Strunk Jr. and E.B. White",
                 "price": 7.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Ways of Seeing",
                 "author": "John Berger",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "Designing Design",
                 "author": "Kenya Hara",
                 "price": 14.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "The Art Spirit",
                 "author": "Robert Henri",
                 "price": 9.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     },
@@ -841,35 +931,40 @@
                 "author": "Walt Whitman",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1322",
-                "image": "https://covers.openlibrary.org/b/id/8234214-L.jpg"
+                "image": "https://covers.openlibrary.org/b/id/8234214-L.jpg",
+                "id": 1
             },
             {
                 "title": "The Raven",
                 "author": "Edgar Allan Poe",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/2091",
-                "image": "https://example.com/the_raven.jpg"
+                "image": "https://example.com/the_raven.jpg",
+                "id": 2
             },
             {
                 "title": "The Waste Land",
                 "author": "T.S. Eliot",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/5000",
-                "image": "https://example.com/the_waste_land.jpg"
+                "image": "https://example.com/the_waste_land.jpg",
+                "id": 3
             },
             {
                 "title": "Sonnet 18",
                 "author": "William Shakespeare",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/1004",
-                "image": "https://example.com/sonnet_18.jpg"
+                "image": "https://example.com/sonnet_18.jpg",
+                "id": 4
             },
             {
                 "title": "The Road Not Taken",
                 "author": "Robert Frost",
                 "price": 0,
                 "download": "https://www.gutenberg.org/ebooks/9000",
-                "image": "https://example.com/the_road_not_taken.jpg"
+                "image": "https://example.com/the_road_not_taken.jpg",
+                "id": 5
             }
         ]
     },
@@ -887,35 +982,40 @@
                 "author": "Alan Moore",
                 "price": 14.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 1
             },
             {
                 "title": "Maus",
                 "author": "Art Spiegelman",
                 "price": 12.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 2
             },
             {
                 "title": "Persepolis",
                 "author": "Marjane Satrapi",
                 "price": 11.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 3
             },
             {
                 "title": "Sandman: Preludes & Nocturnes",
                 "author": "Neil Gaiman",
                 "price": 13.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 4
             },
             {
                 "title": "Bone",
                 "author": "Jeff Smith",
                 "price": 15.99,
                 "download": "https://www.gutenberg.org/",
-                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg"
+                "image": "https://covers.openlibrary.org/b/ID/8254786-L.jpg",
+                "id": 5
             }
         ]
     }

@@ -1,8 +1,9 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 function Cards({ items }) {
     return (
         <>
+        <Link to={`/Course/${items.id}`}>
             <div className='px-8'>
                 <div className="card bg-rose-100 w-80 shadow-xl hover:scale-95 cursor-pointer transition-transform duration-300 active:translate-y-3">
                     <figure>
@@ -18,13 +19,14 @@ function Cards({ items }) {
                         </h2>
                         <p>{items.title}</p>
                         <div className="card-actions justify-between">
-                            <div className="badge badge-outline h-8">₹{items.price}</div>
                             <div className="badge w-16 h-10 bg-rose-700 text-white hover:bg-rose-900 cursor-pointer">View</div>
                         </div>
                     </div>
                 </div>
             </div>
+            </Link>
         </>
+        
     )
 }
 

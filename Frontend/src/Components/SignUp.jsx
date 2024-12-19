@@ -1,6 +1,6 @@
 import React from 'react'
 import Login from '../Components/Login'
-
+import { Link } from 'react-router-dom'
 function SignUp() {
     return (
         <>
@@ -42,8 +42,8 @@ function SignUp() {
                             <div className='btn bg-rose-700 border-none hover:bg-rose-800 text-white'>Sign Up</div>
                             <div className='ml-3 text-gray-600 hover:text-gray-800 mt-4 px-20 ' onClick={() => document.getElementById('my_modal_3')} >Already have an Account?
                                <Login/>
-                                <a className='text-blue-600 font-thin underline hover:cursor-pointer active:text-rose-400' >Log In
-                                </a>
+                               <a className='text-blue-600 font-thin underline hover:cursor-pointer active:text-rose-400'>Log In
+                               </a>
                             </div>
 
 
