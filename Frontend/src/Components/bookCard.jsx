@@ -5,12 +5,12 @@ function Bookcard({item}){
     return (
         <>
         <div className="px-10">
-            <div className="card bg-white shadow-md border border-gray-200 rounded-md">
+            <div className="card bg-white shadow-md border border-gray-200 rounded-md hover:scale-95 transition-transform duration-300 cursor-pointer">
                 <figure className="p-14 pt-6">
                     <img
                         src={item.image}
                         alt={item.title}
-                        className="w-full h-54 shadow-2xl shadow-gray-400"
+                        className="w-full h-54 shadow-2xl shadow-black"
                     />
                 </figure>
                 <div className="card-body px-5 pb-4">
