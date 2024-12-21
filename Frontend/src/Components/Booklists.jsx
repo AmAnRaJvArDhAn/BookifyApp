@@ -1,9 +1,9 @@
 import React from 'react'
 import { useParams } from "react-router-dom";
-import list from '../../src/list.json'
-import Bookcard from './Bookcard'
+import list from '../list.json'
+import Bookcards from './Bookcards'
 
-function Booklist() {
+function Booklists() {
   const { Genreid } = useParams();
   const genre = list.find((item) => item.id === parseInt(Genreid));
   return (
@@ -20,7 +20,7 @@ function Booklist() {
         </h1>
         <div className=' mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4'>
           {genre?.books.map((book) => (
-            <Bookcard key={book.id} item={book} />
+            <Bookcards key={book.id} item={book} />
           ))}
         </div>
       </div>
@@ -28,4 +28,4 @@ function Booklist() {
   )
 }
 
-export default Booklist
+export default Booklists

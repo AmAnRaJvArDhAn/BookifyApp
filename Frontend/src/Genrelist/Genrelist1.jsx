@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
-import Booklist from '../Components/Booklist'
+import Booklists from '../Components/Booklists'
 import Footer from '../Components/Footer'
 
 function Genrelist1() {
     return (
       <>
         <Navbar activeSection="Course" />
-        <Booklist />
+        <Booklists />
         <Footer/>
       </>
     )

@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Bookcard({item}){
+function Bookcards({item}){
     return (
         <>
         <div className="px-10">
@@ -35,4 +35,4 @@ function Bookcard({item}){
     );
 };
 
-export default Bookcard;
+export default Bookcards;
