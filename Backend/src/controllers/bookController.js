@@ -18,3 +18,12 @@ export const addBook = async (req, res) => {
     res.status(400).json({ message: err.message });
   }
 };
+
+export const deleteBook = async (req, res) => {
+  try {
+    await Book.findByIdAndDelete(req.params.id);
+    res.json({ message: 'Book deleted' });
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
+};
