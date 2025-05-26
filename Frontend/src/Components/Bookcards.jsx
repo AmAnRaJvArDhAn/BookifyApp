@@ -1,13 +1,13 @@
 import React from 'react';
 
 function Bookcards({ item }) {
-  const { title, authors, image, price } = {
-    // fallback to avoid undefined errors
-    title: item.title || "No title",
-    authors: item.author || item.authors?.join(', ') || "Unknown Author",
-    image: item.image || item.thumbnail || "https://via.placeholder.com/150",
-    price: item.price || Math.floor(Math.random() * 500 + 100) // fallback price
-  };
+  console.log("Book item:", item);
+
+  const volumeInfo = item.volumeInfo || {};
+  const title = volumeInfo.title || "No title";
+  const authors = volumeInfo.authors?.join(', ') || "Unknown Author";
+  const image = volumeInfo.imageLinks?.thumbnail || "https://via.placeholder.com/150";
+  const price = Math.floor(Math.random() * 500 + 100); // Just a fallback price
 
   return (
     <div className="px-10">

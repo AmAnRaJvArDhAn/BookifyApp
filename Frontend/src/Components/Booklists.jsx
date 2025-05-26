@@ -12,8 +12,10 @@ function Booklists() {
     const fetchGenreBooks = async () => {
       try {
         setLoading(true);
-        const res = await axios.get(`http://localhost:5000/api/googlebooks/genre/${Genreid}`);
-        setBooks(res.data.books || []);  // Adjust this based on your backend's response shape
+        const res = await axios.get(`http://localhost:5000/api/external/genre/${Genreid}`);
+        console.log("Genre API Response:", res.data);
+       setBooks(Array.isArray(res.data) ? res.data : (res.data.books || []));
+
       } catch (err) {
         console.error("Error fetching books by genre:", err);
       } finally {
